@@ -43,3 +43,19 @@ body {
 .header-nav li:not(:last-child) {
     margin-right: 29px;
 }
+
+h1 {
+    font-weight: 500;
+    font-size: 60px;
+    width: 480px;
+    height: 189.22px;
+    margin: 290px 776px 1153px 136px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 117%;
+    color: #606060;
+    margin: 450px 680px 980px 136px;
+}
