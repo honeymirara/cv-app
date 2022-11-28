@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-family: "DM Sans";
+
+}
+
+body {
+    width: 1120px;
+    margin: auto;
+    background: #e5e5e5;
+
+}
+
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1120px;
+    margin: 0 0 109px 0;
+    padding: 90px 0 0 0;
+
+}
+
+.logo {
+    width: 60px;
+    height: 50.4px;
+    background: url(./hs..svg) no-repeat;
+
+}
+
+.header-nav ul {
+    display: flex;
+
+}
+
+.header-nav li {
+    list-style: none;
+
+}
+
+.header-nav li:not(:last-child) {
+    margin-right: 29px;
+}
